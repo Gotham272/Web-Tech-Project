@@ -1,6 +1,6 @@
 # Web-Tech-Project
 Web technology project for 3rd Sem.
-Authors: - 
+Authors: - <br> 
     S Haripriya <br>
     Shreya Vijay <br>
     Shashank Bakshi
